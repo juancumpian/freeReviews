@@ -1,0 +1,30 @@
+div#editor {
+    width: 91%;
+    margin-left: 4%;
+}
+.encabezado{
+    margin-top: 20px;
+}
+#categoria{
+    margin-bottom: 10px;
+}
+.alert{
+    margin-top: 20px;
+    text-align: center;
+}
+.fr-box{
+    margin-top: 20px;
+}
+.fr-box.fr-basic .fr-element{
+    min-height: 200px;
+}
+.btn-primary{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(41, 40, 40) ;
+    border-color: rgba(0, 0, 0, 0.623);
+
+}
+.btn-primary:hover{
+    background-color: rgb(78, 76, 76) ;
+}

@@ -1,0 +1,14 @@
+#mejores{
+    font-family: Monospace;  
+    background-color: #a1010c !important; 
+    color: white;
+}
+
+.boton-mejores{
+    text-decoration: none !important;
+    color: black;
+}
+
+.boton-mejores:hover{
+    color: #a1010c !important;
+}

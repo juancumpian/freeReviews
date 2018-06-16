@@ -1,0 +1,88 @@
+.img-responsive {
+    margin-top: 10px;
+    widows: 150px;
+    height: 150PX;
+}
+
+#alias {
+    margin-top: 20px;
+}
+
+.enviar {
+    position: relative;
+}
+
+.form-inline {
+    margin-top: 40px;
+}
+
+#contenedor {
+    margin-top: 40px;
+}
+
+#contenedor h4 {
+    font-style: italic;
+}
+
+#volver {
+    margin-left: 60px;
+}
+
+.alert {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#cambios {
+    position: relative;
+}
+
+.icono {
+    width: 25px;
+    height: 25px;
+}
+
+.ajax-action-links {
+    color: #09F;
+    cursor: pointer;
+}
+
+#cambiarFoto {
+    text-align: center;
+}
+
+.row {
+    margin-right: 0px;
+}
+
+.flecha {
+    height: 40px;
+    width: 40px;
+}
+
+.primero {
+    height: 40px;
+    width: 70px;
+}
+
+.table-responsive {
+    width: 100%;
+    height: 320px;
+    margin-bottom: 15px;
+    overflow-x: auto;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+    position: relative;
+}
+
+table thead {
+    position: fixed;
+    width: auto;
+    overflow: auto;
+}
+
+.boton-articulo-perfil {
+    font-family: Monospace;
+    background-color: #ce0816 !important;
+}

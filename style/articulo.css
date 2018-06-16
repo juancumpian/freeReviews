@@ -1,0 +1,38 @@
+#me-gusta{
+    height: 35px;
+    width: 35px;
+}
+.ajax-action-links {
+    color: #09F; 
+    margin: 10px 0px;
+    cursor:pointer;
+}
+#puntuacion_value{
+    width:30px;
+}
+.isDisabled{
+    cursor: not-allowed;
+}
+.navbar-fixed-top{
+    background-color: rgb(209, 209, 209);
+    width:100%;
+}
+#imagenPerfil{
+    margin-left: 10px;
+}
+@import url('https://fonts.googleapis.com/css?family=Vollkorn');
+
+@font-face {
+    font-family: apple;
+    src: url(../fonts/AppleChanceryItalic.ttf);
+}
+.referencia{
+    font-family: apple;
+}
+.titulo{
+    font-family: 'Vollkorn', serif;
+}
+.container{
+    box-shadow: 12px 0 15px -4px rgba(0, 0, 0, 0.4), -12px 0 8px -4px rgba(0, 0, 0, 0.4);
+    padding-bottom:15px; 
+}

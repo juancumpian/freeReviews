@@ -1,0 +1,15 @@
+.imgur{
+    align-content: center;
+    margin-top:100px;
+    margin-left: 40%;
+}
+filedset{
+    align-self: center;
+    text-align: center;
+}
+img{
+    max-width:300px;
+    max-height:300px;
+    position: relative;
+    left: 35%;
+}

@@ -1,0 +1,16 @@
+body{
+    background: url("img2.jpg")no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.container{
+    opacity: .9;
+}
+.vertical-center{
+   max-width: 500px;
+}
+.alert-danger{
+    text-align:center;
+}
